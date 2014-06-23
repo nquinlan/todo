@@ -1,11 +1,13 @@
 Order cookies due:2014-06-26 @boulder @w
-Check with Kevin about Power Strips (for 85 people, at 2 devices) @w
-Check with Kevin about Network @w
-Check with Kevin about Display @w
+Check with Kevin about Power Strips (for 85 people, at 2 devices) @w due:2014-06-24
+Check with Kevin about Network @w due:2014-06-24
+Check with Kevin about Display @w due:2014-06-24
 Purchase Bubble Wrap due:2014-06-25 @boulder @w #shopping
 Purchase Gaffer's Tape due:2014-06-25 @boulder @w #shopping
-Investigate & document wizards (for Customer Success) @w due:2014-07-11
-Email team re: shifts @w due:monday
+Investigate & document wizards (for Customer Success) @w due:2014-06-24
+x 2014-06-23 Email team re: shifts @w due:2014-06-23
 Pick out road trip attractions @personal due:2014-07-02
 Email Alexey list
 Email Iowa Organizer @w
+email sendgrid re: hackathon (pending Tim) logistics due:2014-06-24 @w
+check with kevin about hardware @w due:2014-06-24
