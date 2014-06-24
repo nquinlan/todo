@@ -6,3 +6,10 @@ x 2014-06-20 Energy Drinks - Purchase @w @boulder
 x 2014-06-19 HackerLeague - Delyn or SJ
 x 2014-06-20 Ask: Carole (locked office) @w
 x 2014-06-20 test dropbox sync
+
+x 2014-06-23 Email team re: shifts @w due:2014-06-23
+x 2014-06-24 Check with Kevin about Power Strips (for 85 people, at 2 devices) @w due:2014-06-24
+x 2014-06-24 Check with Kevin about Network @w due:2014-06-24
+x 2014-06-24 Check with Kevin about Display @w due:2014-06-24
+x 2014-06-24 email sendgrid re: hackathon (pending Tim) logistics due:2014-06-24 @w
+x 2014-06-24 check with kevin about hardware @w due:2014-06-24
