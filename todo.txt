@@ -9,7 +9,7 @@ x 2014-06-23 Email team re: shifts @w due:2014-06-23
 Pick out road trip attractions @personal due:2014-07-02
 Email Alexey list
 Email Iowa Organizer @w
-email sendgrid re: hackathon (pending Tim) logistics due:2014-06-24 @w
+x 2014-06-24 email sendgrid re: hackathon (pending Tim) logistics due:2014-06-24 @w
 check with kevin about hardware @w due:2014-06-24
 talk to Ron about site changes @w @boulder due:2014-06-27
 Get two SD cards @w @boulder due:2014-06-25
