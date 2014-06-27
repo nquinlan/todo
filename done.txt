@@ -22,3 +22,6 @@ x 2014-06-25 Purchase Bubble Wrap due:2014-06-25 @boulder @w #shopping
 x 2014-06-25 Purchase Gaffer's Tape due:2014-06-25 @boulder @w #shopping
 x 2014-06-25 Get two SD cards @w @boulder due:2014-06-25
 x 2014-06-25 Buy four table cloths @w @boulder due:2014-06-25
+
+x 2014-06-27 Order cookies due:2014-06-26 @boulder @w
+x 2014-06-27 talk to Ron about site changes @w @boulder due:2014-06-27
