@@ -2,5 +2,7 @@ Pick out road trip attractions @personal due:2014-07-02
 Email Alexey list
 Email Iowa Organizer @w
 Research connecting analytics accounts @w
-deal with additional hackathon prizes
+deal with additional hackathon prizes @w due:2014-07-01
 Write internal hackathon blog post @w due:2014-07-01
+Write internal hackathon wrap up doc @w due:2014-07-08
+Write internal hackathon all company email @w due:2014-07-03
