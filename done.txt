@@ -32,3 +32,7 @@ x 2014-06-30 Book car @personal due:2014-06-29
 x 2014-06-30 Pick out road trip attractions @personal due:2014-07-02
 x 2014-06-30 deal with additional hackathon prizes @w due:2014-07-01
 
+
+x 2014-07-09 Email Paul re: product at Twilio @w due:2014-07-02
+x 2014-07-09 Update card with PS & Google @w due:2014-07-05
+x 2014-07-09 Follow up with engineering due:2014-07-09
