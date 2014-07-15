@@ -5,4 +5,5 @@ Follow-up on API keys (product meeting) due:2014-07-17
 x 2014-07-10 complete security <https://vle.securingthehuman.org> due:2014-08-01
 x 2014-07-11 take strengths finder due:2014-07-14
 x 2014-07-10 finish onboarding emails due:2014-07-10
+get emails that need templates due:2014-07-25
 
