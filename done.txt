@@ -36,3 +36,8 @@ x 2014-06-30 deal with additional hackathon prizes @w due:2014-07-01
 x 2014-07-09 Email Paul re: product at Twilio @w due:2014-07-02
 x 2014-07-09 Update card with PS & Google @w due:2014-07-05
 x 2014-07-09 Follow up with engineering due:2014-07-09
+
+x 2014-07-10 finish onboarding emails due:2014-07-10
+x 2014-07-11 take strengths finder due:2014-07-14
+x 2014-07-17 Follow-up on API keys (product meeting) due:2014-07-17
+x 2014-07-10 complete security <https://vle.securingthehuman.org> due:2014-08-01
