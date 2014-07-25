@@ -1,12 +1,11 @@
 Research connecting analytics accounts @w
-get emails that need templates due:2014-07-25
-reach out to sales due:2014-07-24
-add hackathons due:2014-07-24
+get emails that need templates due:2014-08-07
+reach out to sales due:2014-08-04
+add hackathons due:2014-07-25
 loop in heitor, robin, ws frontier hack due:2014-08-08
 respect bcc & cc headers +Product due:2014-08-07
 revamp event form +Anytime
 delivered presentation due:2014-08-06
-
-Get book and jacket due:2014-08-09
-Setup trash email due:2014-07-24
+x 2014-07-25 Get book and jacket due:2014-08-09
+x 2014-07-25 Setup trash email due:2014-07-24
 
