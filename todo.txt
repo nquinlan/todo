@@ -1,9 +1,9 @@
-Email Alexey list
-Email Iowa Organizer @w
 Research connecting analytics accounts @w
 get emails that need templates due:2014-07-25
 reach out to sales due:2014-07-24
 add hackathons due:2014-07-24
 loop in heitor, robin, ws frontier hack due:2014-08-08
 respect bcc & cc headers +Product due:2014-08-07
+revamp event form +Anytime
+delivered presentation due:2014-08-06
 
