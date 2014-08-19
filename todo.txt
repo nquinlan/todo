@@ -5,4 +5,5 @@ revamp event form +Anytime
 ttl +Product due:2014-09-04
 taxes due:2014-08-23
 replace kevin's devices <http://amzn.com/w/15F6XFASP59XV> due:2014-08-22
-Camp SendGrid due:2014-08-17
+x 2014-08-18 Camp SendGrid due:2014-08-17
+
