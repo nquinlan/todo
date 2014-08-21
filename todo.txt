@@ -8,3 +8,6 @@ replace kevin's devices <http://amzn.com/w/15F6XFASP59XV> due:2014-08-22
 x 2014-08-18 Camp SendGrid due:2014-08-17
 buy candy <http://www.amazon.com/Kopiko-Coffee-Candy-800g-28-2oz/dp/B002G96XUE/ref=pd_sbs_gro_1?ie=UTF8&refRID=0NHG8VP7G8YZ4D9YBBKB> due:2014-08-25
 
+Checkin with Regan due:2014-08-21
+Checkin with N due:2014-09-01
+
