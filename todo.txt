@@ -4,10 +4,13 @@ respect bcc & cc headers +Product due:2014-09-04
 revamp event form +Anytime
 ttl +Product due:2014-09-04
 taxes due:2014-08-23
-replace kevin's devices <http://amzn.com/w/15F6XFASP59XV> due:2014-08-22
+x 2014-08-22 replace kevin's devices <http://amzn.com/w/15F6XFASP59XV> due:2014-08-22
 x 2014-08-18 Camp SendGrid due:2014-08-17
-buy candy <http://www.amazon.com/Kopiko-Coffee-Candy-800g-28-2oz/dp/B002G96XUE/ref=pd_sbs_gro_1?ie=UTF8&refRID=0NHG8VP7G8YZ4D9YBBKB> due:2014-08-25
-
-Checkin with Regan due:2014-08-21
+x 2014-08-21 Checkin with Regan due:2014-08-21
 Checkin with N due:2014-09-01
+check into bad url (andrew, delivered) due:2014-08-27
+smtp page due:2014-08-28
+email mike re:whenever due:2014-08-25
+make pennapps cards due:2014-08-25
+follow up on last week's event calls due:2014-08-25
 
