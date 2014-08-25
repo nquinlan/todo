@@ -1,9 +1,9 @@
 reach out to sales due:2014-09-03
-loop in heitor, robin, ws frontier hack due:2014-08-22
+loop in heitor, robin, ws frontier hack due:2014-09-03
 respect bcc & cc headers +Product due:2014-09-04
 revamp event form +Anytime
 ttl +Product due:2014-09-04
-taxes due:2014-08-23
+x 2014-08-24 taxes due:2014-08-23
 x 2014-08-22 replace kevin's devices <http://amzn.com/w/15F6XFASP59XV> due:2014-08-22
 x 2014-08-18 Camp SendGrid due:2014-08-17
 x 2014-08-21 Checkin with Regan due:2014-08-21
