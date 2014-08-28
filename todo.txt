@@ -16,4 +16,5 @@ finish follow up on last week's event calls due:2014-09-02
 switch password managers due:2014-09-11
 fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-09-01
 x 2014-08-27 CoC due:2014-08-27
-UPLOADE SLIDES due:2014-08-27
+x 2014-08-27 UPLOAD SLIDES due:2014-08-27
+
