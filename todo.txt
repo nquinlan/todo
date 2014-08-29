@@ -7,7 +7,7 @@ x 2014-08-24 taxes due:2014-08-23
 x 2014-08-22 replace kevin's devices <http://amzn.com/w/15F6XFASP59XV> due:2014-08-22
 x 2014-08-18 Camp SendGrid due:2014-08-17
 x 2014-08-21 Checkin with Regan due:2014-08-21
-Checkin with N due:2014-08-28
+x 2014-08-29 Checkin with N due:2014-08-28
 check into bad url (andrew, delivered) due:2014-08-27
 smtp page due:2014-08-28
 x 2014-08-25 email mike re:whenever due:2014-08-25
