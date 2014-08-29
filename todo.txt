@@ -12,7 +12,7 @@ check into bad url (andrew, delivered) due:2014-08-27
 smtp page due:2014-08-28
 x 2014-08-25 email mike re:whenever due:2014-08-25
 make pennapps cards due:2014-08-29
-finish follow up on last week's event calls due:2014-09-02
+finish follow up on last week's event calls due:2014-09-09
 switch password managers due:2014-09-11
 fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-09-01
 x 2014-08-27 CoC due:2014-08-27
