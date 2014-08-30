@@ -18,3 +18,4 @@ fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redir
 x 2014-08-27 CoC due:2014-08-27
 x 2014-08-27 UPLOAD SLIDES due:2014-08-27
 Buy Sedaris tickets due:2014-08-31
+Email mike due:2014-09-02
