@@ -8,10 +8,10 @@ x 2014-08-22 replace kevin's devices <http://amzn.com/w/15F6XFASP59XV> due:2014-
 x 2014-08-18 Camp SendGrid due:2014-08-17
 x 2014-08-21 Checkin with Regan due:2014-08-21
 x 2014-08-29 Checkin with N due:2014-08-28
-check into bad url (andrew, delivered) due:2014-08-27
-smtp page due:2014-08-28
+check into bad url (andrew, delivered) due:2014-09-04
+smtp page due:2014-09-02
 x 2014-08-25 email mike re:whenever due:2014-08-25
-make pennapps cards due:2014-08-29
+make pennapps cards due:2014-09-04
 finish follow up on last week's event calls due:2014-09-09
 switch password managers due:2014-09-11
 fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-09-01
@@ -19,3 +19,4 @@ x 2014-08-27 CoC due:2014-08-27
 x 2014-08-27 UPLOAD SLIDES due:2014-08-27
 Buy Sedaris tickets due:2014-08-31
 Email mike due:2014-09-02
+
