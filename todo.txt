@@ -1,22 +1,17 @@
+x 2014-09-09 404 due:2014-09-09
+x 2014-09-09 Java due:2014-09-09
+x 2014-09-09 One on ones due:2014-09-09
+x 2014-09-09 Will, contract due:2014-09-09
+x 2014-09-09 Elmer, email due:2014-09-09
+x 2014-09-09 HackGT due:2014-09-09
+Brynn due:2014-09-09
 reach out to sales due:2014-09-03
-loop in heitor, robin, ws frontier hack due:2014-09-03
 respect bcc & cc headers +Product due:2014-09-11
 revamp event form +Anytime
 ttl +Product due:2014-09-11
-x 2014-08-24 taxes due:2014-08-23
-x 2014-08-22 replace kevin's devices <http://amzn.com/w/15F6XFASP59XV> due:2014-08-22
-x 2014-08-18 Camp SendGrid due:2014-08-17
-x 2014-08-21 Checkin with Regan due:2014-08-21
-x 2014-08-29 Checkin with N due:2014-08-28
 check into bad url (andrew, delivered) due:2014-09-04
 smtp page due:2014-09-02
-x 2014-08-25 email mike re:whenever due:2014-08-25
-make pennapps cards due:2014-09-04
 finish follow up on last week's event calls due:2014-09-09
 switch password managers due:2014-09-11
 fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-09-10
-x 2014-08-27 CoC due:2014-08-27
-x 2014-08-27 UPLOAD SLIDES due:2014-08-27
-x 2014-09-03 Email mike r. due:2014-09-02
-x 2014-09-03 Check with Cassie due:2014-09-02
 
