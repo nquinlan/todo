@@ -9,4 +9,4 @@ switch password managers due:2014-09-16
 fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-09-10
 follow up on tuesday meeting due:2014-09-10
 confirm TS SEA due:2014-09-10
-
+Eddie candy due:20140-09-10
