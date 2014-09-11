@@ -1,4 +1,4 @@
-Brynn due:2014-09-09
+x 2014-09-10 Brynn due:2014-09-09
 reach out to sales due:2014-09-18
 respect bcc & cc headers +Product due:2014-09-11
 revamp event form +Anytime
@@ -8,5 +8,9 @@ finish follow up on last week's event calls due:2014-09-11
 switch password managers due:2014-09-16
 fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-09-10
 follow up on tuesday meeting due:2014-09-10
-confirm TS SEA due:2014-09-10
+x 2014-09-11 confirm TS SEA due:2014-09-10
+email jakub due:tonight
+blog post my public todo list +Anytime
+look over devrel api backlog due:2014-09-15
+look over blog post rates due:2014-09-19
 
