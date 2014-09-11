@@ -73,3 +73,8 @@ x 2014-09-09 One on ones due:2014-09-09
 x 2014-09-09 Will, contract due:2014-09-09
 x 2014-09-09 Elmer, email due:2014-09-09
 x 2014-09-09 HackGT due:2014-09-09
+
+x 2014-09-10 Brynn due:2014-09-09
+x 2014-09-11 confirm TS SEA due:2014-09-10
+x 2014-09-10 Brynn due:2014-09-09
+x 2014-09-11 confirm TS SEA due:2014-09-10
