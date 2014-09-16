@@ -9,9 +9,12 @@ fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redir
 follow up on tuesday meeting due:2014-09-15
 x 2014-09-15 email jakub due:tonight
 blog post my public todo list +Anytime
-look over devrel api backlog due:2014-09-15
+x 2014-09-15 look over devrel api backlog due:2014-09-15
 look over blog post rates due:2014-09-19
 x 2014-09-11 API Keys +Product due:2014-09-11
-up summit due:2014-09-15
-Massages due:2014-09-15
-Ignite due:2014-09-15
+x 2014-09-16 up summit due:2014-09-15
+x 2014-09-16 Massages due:2014-09-15
+x 2014-09-16 Ignite due:2014-09-15
+checkout devrel api auth due:2014-09-19
+book dubhacks due:2014-09-17
+
