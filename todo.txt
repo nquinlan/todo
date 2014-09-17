@@ -17,4 +17,4 @@ x 2014-09-16 Massages due:2014-09-15
 x 2014-09-16 Ignite due:2014-09-15
 checkout devrel api auth due:2014-09-19
 book dubhacks due:2014-09-17
-
+Coordinate 500 due:2014-08-17
