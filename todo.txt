@@ -12,4 +12,4 @@ x 2014-09-17 Coordinate 500 due:2014-09-17
 x 2014-09-17 HOTELS due:2014-09-17
 x 2014-09-17 email darcy re:non-descrimintation due:2014-09-17
 x 2014-09-17 schedule meeting, brandon, paul due:2014-09-17
-
+Respond to personal email due:2014-09-19
