@@ -88,3 +88,11 @@ x 2014-09-16 Massages due:2014-09-15
 x 2014-09-16 Ignite due:2014-09-15
 x 2014-09-17 book dubhacks due:2014-09-17
 x 2014-09-15 email jakub due:tonight
+
+x 2014-09-17 Coordinate 500 due:2014-09-17
+x 2014-09-17 HOTELS due:2014-09-17
+x 2014-09-17 email darcy re:non-descrimintation due:2014-09-17
+x 2014-09-17 schedule meeting, brandon, paul due:2014-09-17
+x 2014-09-19 Respond to personal email due:2014-09-19
+x 2014-09-19 Respond to connector due:2014-09-19
+x 2014-09-28 Accelerate report due:2014-09-19

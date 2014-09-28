@@ -1,17 +1,9 @@
-reach out to sales due:2014-09-18
+reach out to sales due:2014-10-10
 respect bcc & cc headers +Product due:2014-10-07
 revamp event form +Anytime
-smtp page due:2014-09-18
-finish follow up on last week's event calls due:2014-09-18
-switch password managers due:2014-09-24
+smtp page due:2014-10-01
+switch password managers due:2014-10-11
 fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-10-01
 blog post my public todo list +Anytime
-look over blog post rates due:2014-09-19
-checkout devrel api auth due:2014-09-19
-x 2014-09-17 Coordinate 500 due:2014-09-17
-x 2014-09-17 HOTELS due:2014-09-17
-x 2014-09-17 email darcy re:non-descrimintation due:2014-09-17
-x 2014-09-17 schedule meeting, brandon, paul due:2014-09-17
-Respond to personal email due:2014-09-19
-Respond to connector due:2014-09-19
-Accelerate report due:2014-09-19
+add to accelerate master list due:2014-10-03
+
