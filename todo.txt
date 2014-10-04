@@ -6,4 +6,4 @@ switch password managers due:2014-10-11
 fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-10-01
 blog post my public todo list +Anytime
 add to accelerate master list due:2014-10-03
-Ship Sphero due:2014-10-01
+x 2014-10-04 Ship Sphero due:2014-10-01
