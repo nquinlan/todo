@@ -8,4 +8,4 @@ add isaac, dc, and rowan to nimble due:2014-10-18
 find more solid numbers due:2014-10-24
 x 2014-10-04 Ship Sphero due:2014-10-01
 x 2014-10-02 respect bcc & cc headers +Product due:2014-10-07
-
+Intro Kushal to Shrav due:2014-10-14
