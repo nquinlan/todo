@@ -1,9 +1,11 @@
-reach out to sales due:2014-10-10
-respect bcc & cc headers +Product due:2014-10-07
+propose reach out to sales due:2014-10-15
+x 2014-10-02 respect bcc & cc headers +Product due:2014-10-07
 revamp event form +Anytime
-smtp page due:2014-10-01
-switch password managers due:2014-10-11
-fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-10-01
+smtp page due:2014-10-16
+switch password managers due:2014-10-18
+fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-10-18
 blog post my public todo list +Anytime
-add to accelerate master list due:2014-10-03
+x 2014-10-13 add to accelerate master list due:2014-10-03
+add isaac, dc, and rowan to nimble due:2014-10-18
+find more solid numbers due:2014-10-24
 
