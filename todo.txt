@@ -1,11 +1,11 @@
-propose reach out to sales due:2014-10-15
+propose reach out to sales due:2014-10-16
 revamp event form +Anytime
-smtp page due:2014-10-16
 switch password managers due:2014-10-18
 fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-10-18
 blog post my public todo list +Anytime
-add isaac, dc, and rowan to nimble due:2014-10-18
 find more solid numbers due:2014-10-24
-x 2014-10-04 Ship Sphero due:2014-10-01
-x 2014-10-02 respect bcc & cc headers +Product due:2014-10-07
+bring prizes to hattery due:2014-10-20
+make sknf stickers due:2014-10-17
+hackathon prizes due:2014-10-20
+call prudential (800-247-8000 x 2210) due:2014-10-20
 

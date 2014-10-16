@@ -96,3 +96,8 @@ x 2014-09-17 schedule meeting, brandon, paul due:2014-09-17
 x 2014-09-19 Respond to personal email due:2014-09-19
 x 2014-09-19 Respond to connector due:2014-09-19
 x 2014-09-28 Accelerate report due:2014-09-19
+
+x 2014-10-04 Ship Sphero due:2014-10-01
+x 2014-10-02 respect bcc & cc headers +Product due:2014-10-07
+x 2014-10-16 email matt due:2014-10-16
+x 2014-10-16 add isaac, dc, and rowan to nimble due:2014-10-18
