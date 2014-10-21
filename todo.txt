@@ -15,3 +15,4 @@ email yamil data due:2014-20-21
 Ticket due:2014-10-21
 Computer due:2014-10-22
 FedEx due:2014-10-21
+Check expenses for Scott due:2014-10-21
