@@ -15,5 +15,7 @@ x 2014-10-21 Computer due:2014-10-22
 x 2014-10-21 FedEx due:2014-10-21
 x 2014-10-21 Check expenses for Scott due:2014-10-21
 Email Victoria due:2014-10-23
+Ping Taylor due:2014-10-21
 follow up on zendesk 361007 due:2014-10-22
+
 
