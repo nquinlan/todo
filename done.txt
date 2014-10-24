@@ -101,3 +101,17 @@ x 2014-10-04 Ship Sphero due:2014-10-01
 x 2014-10-02 respect bcc & cc headers +Product due:2014-10-07
 x 2014-10-16 email matt due:2014-10-16
 x 2014-10-16 add isaac, dc, and rowan to nimble due:2014-10-18
+
+x 2014-10-21 hackathon prizes due:2014-10-20
+x 2014-10-21 Ticket due:2014-10-21
+x 2014-10-21 FedEx due:2014-10-21
+x 2014-10-21 Check expenses for Scott due:2014-10-21
+x 2014-10-22 Ping Taylor due:2014-10-21
+x 2014-10-22 bring prizes to hattery due:2014-10-22
+x 2014-10-21 Computer due:2014-10-22
+x 2014-10-22 follow up on zendesk 361007 due:2014-10-22
+x 2014-10-23 check php for ryan due:2014-10-22
+x 2014-10-23 propose reach out to sales due:2014-10-23
+x 2014-10-23 send yamil salesforce reports due:2014-10-23
+x 2014-10-23 Email Victoria due:2014-10-23
+x 2014-10-22 ESP shootout due:2014-10-24

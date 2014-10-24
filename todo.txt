@@ -1,21 +1,10 @@
-propose reach out to sales due:2014-10-23
 revamp event form +Anytime
 switch password managers due:2014-10-23
 fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-11-01
 blog post my public todo list +Anytime
-x 2014-10-22 bring prizes to hattery due:2014-10-22
 make sknf stickers due:2014-10-17
-x 2014-10-21 hackathon prizes due:2014-10-20
-ESP shootout due:2014-10-24
 call prudential (800-247-8000 x 2210) due:2014-10-23
-send yamil salesforce reports due:2014-10-23
 email yamil data due:2014-20-21
-x 2014-10-21 Ticket due:2014-10-21
-x 2014-10-21 Computer due:2014-10-22
-x 2014-10-21 FedEx due:2014-10-21
-x 2014-10-21 Check expenses for Scott due:2014-10-21
-Email Victoria due:2014-10-23
-x 2014-10-22 Ping Taylor due:2014-10-21
-follow up on zendesk 361007 due:2014-10-22
-check php for ryan due:2014-10-22
+fedex boxes due:2014-10-24
+ping todd due:2014-10-24
 
