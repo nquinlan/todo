@@ -6,5 +6,6 @@ make sknf stickers due:2014-10-17
 call prudential (800-247-8000 x 2210) due:2014-10-23
 email yamil data due:2014-20-21
 fedex boxes due:2014-10-24
-ping todd due:2014-10-24
+x 2014-10-24 ping todd due:2014-10-24
+small improvements due:2014-10-28
 
