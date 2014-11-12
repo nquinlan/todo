@@ -8,3 +8,4 @@ x 2014-10-24 ping todd due:2014-10-24
 x 2014-10-28 small improvements due:2014-10-28
 x 2014-10-29 email sameer due:2014-10-27
 get sameer a list of api companies due:2014-11-01
+Email Courtney due:2014-11-12
