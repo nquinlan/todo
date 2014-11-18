@@ -10,3 +10,4 @@ x 2014-10-29 email sameer due:2014-10-27
 get sameer a list of api companies due:2014-11-01
 x 2014-11-14 Email Courtney due:2014-11-12
 Set message machines due:2014-11-18
+Subscribe to MLH Google Alerts
