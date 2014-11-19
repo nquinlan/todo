@@ -1,13 +1,5 @@
-x 2014-10-31 switch password managers due:2014-10-23
 fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-11-01
 make sknf stickers due:2014-10-17
-x 2013-10-30 call prudential (800-247-8000 x 2210) due:2014-10-23
-x 2014-10-30 email yamil data due:2014-20-21
-x 2014-10-26 fedex boxes due:2014-11-04
-x 2014-10-24 ping todd due:2014-10-24
-x 2014-10-28 small improvements due:2014-10-28
-x 2014-10-29 email sameer due:2014-10-27
 get sameer a list of api companies due:2014-11-01
-x 2014-11-14 Email Courtney due:2014-11-12
-Set message machines due:2014-11-18
-Subscribe to MLH Google Alerts due:2014-11-18
+email next week's calls due:2014-11-21
+email hostels due:2014-11-19

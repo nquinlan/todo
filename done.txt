@@ -115,3 +115,14 @@ x 2014-10-23 propose reach out to sales due:2014-10-23
 x 2014-10-23 send yamil salesforce reports due:2014-10-23
 x 2014-10-23 Email Victoria due:2014-10-23
 x 2014-10-22 ESP shootout due:2014-10-24
+
+x 2014-10-30 email yamil data due:2014-20-21
+x 2014-10-31 switch password managers due:2014-10-23
+x 2013-10-30 call prudential (800-247-8000 x 2210) due:2014-10-23
+x 2014-10-24 ping todd due:2014-10-24
+x 2014-10-29 email sameer due:2014-10-27
+x 2014-10-28 small improvements due:2014-10-28
+x 2014-10-26 fedex boxes due:2014-11-04
+x 2014-11-14 Email Courtney due:2014-11-12
+x 2014-11-19 Set message machines due:2014-11-18
+x 2014-11-18 Subscribe to MLH Google Alerts due:2014-11-18
