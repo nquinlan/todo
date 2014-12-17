@@ -1,7 +1,8 @@
-fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-11-01
-make sknf stickers due:2014-10-17
-get sameer a list of api companies due:2014-11-01
-email next week's calls due:2014-11-21
-email hostels due:2014-11-19
-Respond to dan due:2014-11-20
-HSA due:2014-11-20
+fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-12-01
+write monthly emails due:2014-12-18
+organizer office hours due:2014-12-18
+add monterey to calendar due:2014-12-15
+collect venue information due:2014-12-18
+follow up with all organizers due:2014-12-19
+respond to hacku due:2014-12-18
+kickback follow up due:2014-12-19

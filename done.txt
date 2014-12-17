@@ -126,3 +126,28 @@ x 2014-10-26 fedex boxes due:2014-11-04
 x 2014-11-14 Email Courtney due:2014-11-12
 x 2014-11-19 Set message machines due:2014-11-18
 x 2014-11-18 Subscribe to MLH Google Alerts due:2014-11-18
+
+x 2014-11-20 email hostels due:2014-11-19
+x 2014-11-20 HSA due:2014-11-20
+x 2014-11-21 email next week's calls due:2014-11-21
+x 2014-11-26 enter hackmason due:2014-11-26
+x 2014-11-26 enter dragonhacks due:2014-11-26
+x 2014-11-28 checkin with shy due:2014-11-26
+x 2014-12-09 create season announcement post due:2014-11-26
+x 2014-11-26 email swift re: tim due:2014-11-26
+x 2014-12-02 answer fireside surveys due:2014-12-01
+x 2014-12-04 follow up with tufts due:2014-12-02
+x 2014-12-10 sponsor list due:2014-12-10
+x 2014-12-15 make sknf stickers due:2014-10-17
+x 2014-12-12 f/u shane due:2014-12-11
+x 2014-12-12 hackdfw fu due:2014-12-11
+x 2014-12-15 intro to scrimshaw due:2014-12-12
+x 2014-12-15 f/u alice due:2014-12-12
+x 2014-12-12 f/u uhack due:2014-12-12
+x 2014-12-12 asu hackcon tickets due:2014-12-12
+x 2014-12-12 f/u dragonhacks due:2014-12-12
+x 2014-12-15 schedule workshop reminder due:2014-12-15
+x 2014-12-15 schedule hacker survey due:2014-12-15
+x 2014-12-16 sanctioning packets due:2014-12-16
+x 2014-12-16 respond to david due:2014-12-16
+x 2014-12-15 f/u with swift uci & hacku
