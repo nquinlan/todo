@@ -1,8 +1,5 @@
 fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-12-01
-write monthly emails due:2014-12-18
-organizer office hours due:2014-12-18
-add monterey to calendar due:2014-12-15
-collect venue information due:2014-12-18
-follow up with all organizers due:2014-12-19
-respond to hacku due:2014-12-18
-kickback follow up due:2014-12-19
+collect venue information due:2014-12-22
+follow up with all organizers due:2014-12-22
+kickback follow up due:2014-12-22
+ping about sanctioning agreements due:2014-12-22

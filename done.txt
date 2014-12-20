@@ -151,3 +151,15 @@ x 2014-12-15 schedule hacker survey due:2014-12-15
 x 2014-12-16 sanctioning packets due:2014-12-16
 x 2014-12-16 respond to david due:2014-12-16
 x 2014-12-15 f/u with swift uci & hacku
+x 2014-12-17 write monthly emails due:2014-12-18
+x 2014-12-20 organizer office hours due:2014-12-18
+x 2014-12-20 respond to hacku due:2014-12-18
+x 2014-12-20 respond to HackBeanpot due:2014-12-18
+x 2014-12-18 announce to team about where they are going in January due:2014-12-18
+x 2014-12-19 tv followup due:2014-12-18
+x 2014-12-17 write monthly emails due:2014-12-18
+x 2014-12-20 organizer office hours due:2014-12-18
+x 2014-12-20 respond to hacku due:2014-12-18
+x 2014-12-20 respond to HackBeanpot due:2014-12-18
+x 2014-12-18 announce to team about where they are going in January due:2014-12-18
+x 2014-12-19 tv followup due:2014-12-18
