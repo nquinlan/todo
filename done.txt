@@ -158,9 +158,3 @@ x 2014-12-20 respond to hacku due:2014-12-18
 x 2014-12-20 respond to HackBeanpot due:2014-12-18
 x 2014-12-18 announce to team about where they are going in January due:2014-12-18
 x 2014-12-19 tv followup due:2014-12-18
-x 2014-12-17 write monthly emails due:2014-12-18
-x 2014-12-20 organizer office hours due:2014-12-18
-x 2014-12-20 respond to hacku due:2014-12-18
-x 2014-12-20 respond to HackBeanpot due:2014-12-18
-x 2014-12-18 announce to team about where they are going in January due:2014-12-18
-x 2014-12-19 tv followup due:2014-12-18
