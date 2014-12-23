@@ -1,5 +1,9 @@
 fix jekyll pageless redirects <https://github.com/nquinlan/jekyll-pageless-redirects/issues/5> due:2014-12-01
 collect venue information due:2014-12-22
-follow up with all organizers due:2014-12-22
+x 2014-12-22 follow up with all unsanctioned organizers due:2014-12-22
 kickback follow up due:2014-12-22
-ping about sanctioning agreements due:2014-12-22
+x 2014-12-22 ping about sanctioning agreements due:2014-12-22
+x 2014-12-21 import challengepost due:2014-12-22
+follow up hs events due:2014-12-23
+create new sanctioning packets due:2014-12-23
+checkin with all sanctioned events (website, checkin) due:2014-12-23
