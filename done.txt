@@ -158,3 +158,19 @@ x 2014-12-20 respond to hacku due:2014-12-18
 x 2014-12-20 respond to HackBeanpot due:2014-12-18
 x 2014-12-18 announce to team about where they are going in January due:2014-12-18
 x 2014-12-19 tv followup due:2014-12-18
+
+x 2015-01-01 collect venue information due:2014-12-22
+x 2014-12-22 follow up with all unsanctioned organizers due:2014-12-22
+x 2014-12-22 ping about sanctioning agreements due:2014-12-22
+x 2014-12-21 import challengepost due:2014-12-22
+x 2014-12-27 create new sanctioning packets due:2014-12-23
+x 2015-01-01 checkin with all sanctioned events (website, checkin) due:2014-12-23
+x 2015-01-02 post-event survey due:2014-12-29
+x 2014-12-29 sponsorship blog post due:2014-12-29
+x 2014-12-31 confirm with falls due:2014-12-30
+x 2014-12-30 regan rec due:2014-12-30
+x 2014-12-30 checkin with jason re: hardware lab due:2014-12-30
+x 2014-12-31 vr follow ups due:2014-12-30
+x 2014-12-30 dragon hacks logo due:2014-12-30
+x 2014-12-30 dragon hacks order due:2014-12-30
+x 2014-12-31 reachout to tentative events due:2015-01-02
